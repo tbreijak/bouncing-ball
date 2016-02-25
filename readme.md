@@ -10,7 +10,7 @@ Create a sketch in which you create an arbitrary number of balls that bounce aro
 4. They should bounce off the edges of the canvas.
 
 ### Instructions and hints
-1. Fork this repo from the ENG 7006 organization.
-2. The included ```sketch.js``` will take care of the basics of creating all the balls and animating them.
-3. The code is distributed between ```sketch.js``` and ```bouncing-ball.js```. To get this to spec, specs, you should only need to edit ```bouncing-ball.js```.
-4. ```bouncing-ball.js``` contains comments to guide you, but they are relatively minimal. Please write your code from scratch; do not copy-and-paste any code from other sources, although you may use that code to guide you.
+1. Fork this repo from the ENG 7006 organization, submit it using a pull request.
+2. The included ```sketch.js``` will take care of the basics of creating all the balls and animating them. The ```index.html``` is all set to pull in all the code.
+3. The code for this project lives in both ```sketch.js``` and ```bouncing-ball.js```. To get this to spec, specs, you should only need to edit ```bouncing-ball.js```.
+4. ```bouncing-ball.js``` contains comments to guide you, but they are relatively minimal. Please write your code from scratch; do not copy-and-paste any code from other sources, although you may use that code to guide you. That said, try to do as much of this as you can without making reference to the coding lessons, code from other projects, or the internet.
